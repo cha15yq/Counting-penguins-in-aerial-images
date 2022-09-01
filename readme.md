@@ -28,4 +28,4 @@ If everything works well, you will get a new folder called 'processed_data' unde
 ## Test the model
 ```python test.py ```<br />
 
-We provide a pre-trained model and its path is history/pretrained/best_model.pth
+We provide a pre-trained model and it can be downlowded here: https://drive.google.com/file/d/1wzlCivbuNlJ8BICXXlrb6mxajBgAzq7z/view?usp=sharing
